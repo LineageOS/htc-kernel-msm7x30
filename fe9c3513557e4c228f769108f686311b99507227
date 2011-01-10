@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAB3///js\u003d",
+        "filename": "arch/arm/configs/cyanogen_ace_defconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 982,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-10T02:16:10Z",
+      "side": 1,
+      "message": "For G, this needs to be set if you want wifi to work.",
+      "revId": "fe9c3513557e4c228f769108f686311b99507227",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAB3///jo\u003d",
+        "filename": "arch/arm/configs/cyanogen_ace_defconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 1340,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-10T02:16:10Z",
+      "side": 1,
+      "message": "Sure you want this? Doesn\u0027t Spade support dynamic switching between cameras? I think it\u0027s the same issue as the Evo- some have Omnivision sensors, some have Samsung.",
+      "revId": "fe9c3513557e4c228f769108f686311b99507227",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
